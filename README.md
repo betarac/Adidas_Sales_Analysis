@@ -6,4 +6,4 @@ Explored data for Analysis and visualization of existing data then provides conc
 ## Tools 
 Tableau, Python, Pandas, Numpy, Seaborn, Matplotlib and Statsmodels.
 
-## (Link Report Visualization) [https://public.tableau.com/app/profile/betara.candra.ariviyanto/viz/Adidas_Sales_17058384569270/Dashboard1?publish=yes]
+## [Link Report Visualization] (https://public.tableau.com/app/profile/betara.candra.ariviyanto/viz/Adidas_Sales_17058384569270/Dashboard1?publish=yes)
